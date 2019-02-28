@@ -29,7 +29,7 @@ jobs:
       - PROJECT_NAME: "hacknightvol4"
       - GOOGLE_PROJECT_ID: "mypizzabot-e31bb"
       - GOOGLE_COMPUTE_ZONE: "asia-east1-a"
-      - GOOGLE_CLUSTER_NAME: "hacknightvol4-cluster-baaska1"
+      - GOOGLE_CLUSTER_NAME: "hacknightvol4-cluster-baaska12"
     steps:
       - checkout
       - run:
